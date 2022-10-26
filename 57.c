@@ -1,3 +1,6 @@
 #include<stdio.h>
 
-//Sample type your code.
+int main(){
+printf("this is snehan");
+return 0;
+}
