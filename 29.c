@@ -1,3 +1,4 @@
 #include<stdio.h>
 
-//Sample type your code.
+//Sample type youry code.
+//this makes code better //
