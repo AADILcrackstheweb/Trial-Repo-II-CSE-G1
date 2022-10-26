@@ -1,3 +1,4 @@
 #include<stdio.h>
-
-//Sample type your code.
+int main(){
+}
+//this repos belongs to 21z201
