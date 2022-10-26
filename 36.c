@@ -1,3 +1,4 @@
-#include<stdio.h>
-
-//Sample type your code.
+#include <stdio.h>
+int main(){
+    printf("Hello World");
+}

@@ -1,3 +1,7 @@
 #include<stdio.h>
 
-//Sample type your code.
+int main()
+{
+    printf("21z218-Hareesh S");
+    return 0;
+}
