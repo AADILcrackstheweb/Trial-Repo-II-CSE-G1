@@ -1,3 +1,7 @@
 #include<stdio.h>
 
-//Sample type your code.
+
+int main():
+  printf("This is a test");
+  return 0;
+}
