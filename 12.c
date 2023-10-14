@@ -1,3 +1,4 @@
+
 //Distance vector client
 #include <stdio.h>
 #include <stdlib.h>
@@ -41,4 +42,3 @@ int main() {
 
     close(client_socket);
     return 0;
-}
