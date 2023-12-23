@@ -42,3 +42,4 @@ int main() {
 
     close(client_socket);
     return 0;
+3.5 1 3 6 0 4 4 1
